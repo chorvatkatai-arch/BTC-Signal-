@@ -1,1 +1,8 @@
+{
+  "name": "btc-render-bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
 
